@@ -6,6 +6,6 @@ namespace TrabalhoApi.Models
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public StatusCategoria Status { get; }
+        public StatusCategoria Status { get; set; }
     }
 }
